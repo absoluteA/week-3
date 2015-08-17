@@ -8,7 +8,7 @@ body{
 header {
   height: 54px;
   width: 100%;
-  background: #13171B;
+  background: blue;
   position: fixed;
   left: 0;
   top: 0;
@@ -68,11 +68,7 @@ ul#nav li {
   text-align: left;
   color: #58687A;
 }
-#main {
-  padding-top: 66px;
-  background: #23292f;
-  overflow: hidden;
-}
+
 .main-text {
   color: #676e73;
   width: 83%;

@@ -1,0 +1,10 @@
+header{
+	background: yellow;
+}
+#main{
+	background-image: url('../IMG/Header.jpg');
+	height: 450px;
+}
+
+
+.row{}
