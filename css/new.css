@@ -1,10 +1,15 @@
 header{
-	background: yellow;
+	background: #BF6582;
 }
 #main{
 	background-image: url('../IMG/Header.jpg');
 	height: 450px;
 }
-
+#about{
+	background-color: #A63777;
+}
+#about h1{
+	color: #ecf0f1;
+}
 
 .row{}
