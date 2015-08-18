@@ -1,15 +1,18 @@
 header{
-	background: #BF6582;
+	background: #5C223D;
 }
 #main{
 	background-image: url('../IMG/Header.jpg');
 	height: 450px;
 }
 #about{
-	background-color: #A63777;
+	background-color: #A63380;
 }
 #about h1{
 	color: #ecf0f1;
 }
 
 .row{}
+.main-text h1{
+	color: whitesmoke;
+}
